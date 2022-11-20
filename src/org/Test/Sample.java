@@ -17,7 +17,6 @@ public static void main(String[] args) {
 	System.out.println("enter the pincode"+pincode);
 	System.out.println("mobile ");
 	long mobile = sc.nextLong();
-	System.out.println("enter the mobile no");
 	System.out.println("salary is ");
 	double salary = sc.nextDouble();
 	System.out.println();
