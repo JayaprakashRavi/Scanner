@@ -21,6 +21,7 @@ public static void main(String[] args) {
 	System.out.println("salary is ");
 	double salary = sc.nextDouble();
 	System.out.println();
+	System.out.println("new");
 	
 	
 }
